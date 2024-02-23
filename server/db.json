@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "email": "devdamirbek@gmail.com",
+      "password": "$2a$10$2FKRyiruRXgdX4M0GS2q9u.CLIwHgfn7A2fSbeDm1wEDavRBjRvsW",
+      "name": "Damirbek",
+      "id": 1
+    }
+  ],
+  "messages": [
+    {
+      "name": "Product 1",
+      "id": "1"
+    }
+  ]
+}
